@@ -7,3 +7,5 @@ function favoriteAnimal(animal) {
   }
   
   favoriteAnimal('Goat')
+
+  print(animal)
